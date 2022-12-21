@@ -24,6 +24,6 @@ Remove a project from tracking. Also useful if you want to change what channel t
 
 :::tip
 
-You can get a project's ID from its project page on the Modrinth or CurseForge website, or by using the [Search](../search) command.
+You can get a project's ID from its project page on the Modrinth or CurseForge website, or by using the [Search](../commands/search) command.
 
 :::

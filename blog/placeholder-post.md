@@ -2,7 +2,6 @@
 title: The Minor Update Before Christmas
 description: An early holiday update bringing a few new nifty features and a couple of bugfixes
 authors: beansquared
-tags: [announcement, update]
 date: 2022-12-21
 ---
 Hey Modrunnerians (?)

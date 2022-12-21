@@ -19,13 +19,13 @@ the channel the command was used in.
 :::tip
 
 You can get a project's ID from its project page on the Modrinth or CurseForge website, or by using the 
-[Search](../search) command.
+[Search](../commands/search) command.
 
 :::
 
 :::tip
 
-You can add more than one role to notifyby running the command again with the same project ID and channel, and specifying
+You can add more than one role to notify running the command again with the same project ID and channel, and specifying
 a different role.
 
 :::
