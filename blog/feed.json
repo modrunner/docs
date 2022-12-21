@@ -1,0 +1,21 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Modrunner Blog",
+    "home_page_url": "https://modrunner.net/blog",
+    "description": "Modrunner Blog",
+    "items": [
+        {
+            "id": "/placeholder-post",
+            "content_html": "<p>Hey Modrunnerians (?)</p><p>Got a small little update for y'all just before the holidays hit (and before a big snowstorm where I live!). Wanted to\npush some new minor features before taking a short break from working on Modrunner, so here it is. Please let me know\nwhat you think! </p><p>Now, the changes:</p><ul><li><strong>Add roles to be pinged for updates</strong> - you can now add roles to be pinged by Modrunner when a project receives an\nupdate notification. These are project-channel specific, meaning you can pick separate roles for every single project you\nhave tracked, if you'd like. You can even ping multiple roles at once! Head over to the docs on the\n<a href=\"/commands/track\">track command</a> to get started adding ping roles to your tracked projects.</li><li><strong>Support for forum channels</strong> - you can now track projects in forum channels! Every time a project receives an update\nin a forum channel, the bot will create a new post for that notification, making these ideal for setups where you wish to\nencourage discussion about newly released project updates.</li><li><strong>Added some stability checks and fixed some bugs</strong> - check the release notes on the <a href=\"/releases\">releases tab</a> to view\nthe specifics, if you're so inclined.</li></ul><p>Happy Holidays from the Modrunner team!</p>",
+            "url": "https://modrunner.net/blog/placeholder-post",
+            "title": "The Minor Update Before Christmas",
+            "summary": "An early holiday update bringing a few new nifty features and a couple of bugfixes",
+            "date_modified": "2022-12-21T00:00:00.000Z",
+            "author": {
+                "name": "beansquared",
+                "url": "https://github.com/smcmo"
+            },
+            "tags": []
+        }
+    ]
+}

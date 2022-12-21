@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://modrunner.net/blog</id>
+    <title>Modrunner Blog</title>
+    <updated>2022-12-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://modrunner.net/blog"/>
+    <subtitle>Modrunner Blog</subtitle>
+    <icon>https://modrunner.net/meta/favicon-400x400.png</icon>
+    <rights>Copyright © 2022 Modrunner Contributors.</rights>
+    <entry>
+        <title type="html"><![CDATA[The Minor Update Before Christmas]]></title>
+        <id>/placeholder-post</id>
+        <link href="https://modrunner.net/blog/placeholder-post"/>
+        <updated>2022-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An early holiday update bringing a few new nifty features and a couple of bugfixes]]></summary>
+        <content type="html"><![CDATA[<p>Hey Modrunnerians (?)</p><p>Got a small little update for y'all just before the holidays hit (and before a big snowstorm where I live!). Wanted to
+push some new minor features before taking a short break from working on Modrunner, so here it is. Please let me know
+what you think! </p><p>Now, the changes:</p><ul><li><strong>Add roles to be pinged for updates</strong> - you can now add roles to be pinged by Modrunner when a project receives an
+update notification. These are project-channel specific, meaning you can pick separate roles for every single project you
+have tracked, if you'd like. You can even ping multiple roles at once! Head over to the docs on the
+<a href="/commands/track">track command</a> to get started adding ping roles to your tracked projects.</li><li><strong>Support for forum channels</strong> - you can now track projects in forum channels! Every time a project receives an update
+in a forum channel, the bot will create a new post for that notification, making these ideal for setups where you wish to
+encourage discussion about newly released project updates.</li><li><strong>Added some stability checks and fixed some bugs</strong> - check the release notes on the <a href="/releases">releases tab</a> to view
+the specifics, if you're so inclined.</li></ul><p>Happy Holidays from the Modrunner team!</p>]]></content>
+        <author>
+            <name>beansquared</name>
+            <uri>https://github.com/smcmo</uri>
+        </author>
+    </entry>
+</feed>
