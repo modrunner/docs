@@ -15,11 +15,11 @@ Now, the changes:
 - **Add roles to be pinged for updates** - you can now add roles to be pinged by Modrunner when a project receives an
 update notification. These are project-channel specific, meaning you can pick separate roles for every single project you
 have tracked, if you'd like. You can even ping multiple roles at once! Head over to the docs on the 
-[track command](../commands/track) to get started adding ping roles to your tracked projects.
+track command to get started adding ping roles to your tracked projects.
 - **Support for forum channels** - you can now track projects in forum channels! Every time a project receives an update
 in a forum channel, the bot will create a new post for that notification, making these ideal for setups where you wish to
 encourage discussion about newly released project updates.
-- **Added some stability checks and fixed some bugs** - check the release notes on the [releases tab](../releases) to view
+- **Added some stability checks and fixed some bugs** - check the release notes on the releases tab to view
 the specifics, if you're so inclined.
 
 Happy Holidays from the Modrunner team!
