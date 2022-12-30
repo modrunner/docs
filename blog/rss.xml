@@ -4,15 +4,50 @@
         <title>Modrunner Blog</title>
         <link>https://modrunner.net/blog</link>
         <description>Modrunner Blog</description>
-        <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2022 Modrunner Contributors.</copyright>
         <item>
+            <title><![CDATA[Modrunner End-of-Year Recap]]></title>
+            <link>https://modrunner.net/blog/2022/12/29/modrunner-recap-2022</link>
+            <guid>/2022/12/29/modrunner-recap-2022</guid>
+            <pubDate>Thu, 29 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A look at the history of Modrunner and its accomplishments for 2022]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="introduction">Introduction<a class="hash-link" href="#introduction" title="Direct link to heading">​</a></h2><p>Hey everyone,</p><p>Seems like this concept of an end of the year recap has been gaining popularity in recent years, with the most notable
+example being <a href="https://www.spotify.com/us/wrapped/" target="_blank" rel="noopener noreferrer">Spotify Wrapped</a>, and recently with other services like
+<a href="https://store.steampowered.com/replay" target="_blank" rel="noopener noreferrer">Steam Replay</a>. I even got one from Jimmy John's today! So I thought it might be
+kinda neat if I made something similar for Modrunner this year. This project has personally had my time and attention
+more than most anything else this year, and it's been very rewarding for me. So thank you for using Modrunner, I'm glad
+so many find my work useful.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="timeline-of-events">Timeline of Events<a class="hash-link" href="#timeline-of-events" title="Direct link to heading">​</a></h2><p>A lot has happened since Modrunner was initially released in June of this year. Originally launched with the name
+Modrinth Bot, Modrunner initially only supported searching for projects on Modrinth, and did not have any sort of update
+tracking functionality. Over many  updates using community feedback, Modrunner has grown into a mature project with
+hundreds of projects tracked for updates across both CurseForge and Modrinth, in many servers of various shapes and
+sizes. Let's take a quick look at the timeline for major improvements made to Modrunner this year:</p><p><strong>June</strong></p><blockquote><ul><li>Initial release of Modrunner, under the name of "Modrinth Bot"</li><li>Addition of the ability to track updates to projects</li><li>Addition of support for CurseForge projects</li></ul></blockquote><p><strong>July</strong></p><blockquote><ul><li>Addition of buttons on update notifications that link to the new project version on its respective website</li><li>Addition of notification styles, with Normal and Compact mode offered as options</li><li>Addition of changelogs in update notifications</li></ul></blockquote><p><strong>August</strong></p><blockquote><ul><li>Improvements to update checking, making Modrunner detect them much faster</li><li>Addition of allowance to track a project in multiple channels at once</li><li>Improvements to the /list command, changing it to use embeds rather than a big block of text</li><li>Migration from hard-coded permissions to Discord's built-in permission system</li><li>Many subsequent bug fixes, notably missing notifications for CurseForge projects (this one is still a reason why I don't sleep at night)</li></ul></blockquote><p><strong>November</strong></p><blockquote><ul><li>Addition of project ID and channel parameters to the /untrack command, for better management of tracked projects</li><li>Addition of channel parameter to the /list command and change of listing projects in alphabetical order</li><li>Addition of new setting to limit the max length of display changelogs in update notifications</li></ul></blockquote><p><strong>December</strong></p><blockquote><ul><li>Addition of the ability to add roles to be notified when an update notification is sent</li><li>Addition of support for update notifications in Discord's forum channels</li></ul></blockquote><p>Something that I constantly worry about as a developer is thinking that I'm never doing enough, that I'm working too
+slowly or not efficiently enough on something. Looking back on this timeline, and considering everything during this
+period (finishing up my final semester of college), I think that the amount I've accomplished with Modrunner is something
+to be satisfied with, and I'm looking forward to adding even more improvements in the future!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tracked-project-statistics">Tracked Project Statistics<a class="hash-link" href="#tracked-project-statistics" title="Direct link to heading">​</a></h2><p>Now, how about some statistics? Big numbers? New records? Everyone loves those, right?</p><p>As of this blog post's posted date, the project that has been tracked in the greatest amount of times is the Modrinth
+version of <a href="https://modrinth.com/mod/sodium" target="_blank" rel="noopener noreferrer">Sodium</a>, a modern rendering engine and client-side optimization mod for
+Minecraft, which has been tracked in <strong>8</strong> different Discord servers, which is over <strong>25.8%</strong> of the servers that Modrunner
+is present in!</p><p>The second-most tracked project is the Modrinth version of <a href="https://modrinth.com/mod/fabric-api" target="_blank" rel="noopener noreferrer">Fabric API</a>, a
+lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric
+toolchain, which has been tracked in <strong>6</strong> unique servers, or <strong>19.35%</strong> of the total servers Modrunner serves in.</p><p>Here's the top ten tracked projects, as ordered by the number of different servers it's tracked in. For projects with
+the same number of servers tracked in, they are ordered by total downloads. All the listed projects are for their
+Modrinth versions; guess Modrunner is a popular choice for those working closely with the Modrinth community!</p><table><thead><tr><th>Project Name</th><th>Project Author</th><th>Servers Tracked In</th><th>Percentage of Servers Tracked In</th></tr></thead><tbody><tr><td>1. <a href="https://modrinth.com/mod/sodium" target="_blank" rel="noopener noreferrer">Sodium</a></td><td>jellysquid3</td><td>8</td><td>25.8%</td></tr><tr><td>2. <a href="https://modrinth.com/mod/fabric-api" target="_blank" rel="noopener noreferrer">Fabric API</a></td><td>modmuss50</td><td>6</td><td>19.35%</td></tr><tr><td>3. <a href="https://modrinth.com/mod/lithium" target="_blank" rel="noopener noreferrer">Lithium</a></td><td>jellysquid3</td><td>3</td><td>9.68%</td></tr><tr><td>4. <a href="https://modrinth.com/mod/iris" target="_blank" rel="noopener noreferrer">Iris Shaders</a></td><td>coderbot</td><td>3</td><td>9.68%</td></tr><tr><td>5. <a href="https://modrinth.com/mod/iris" target="_blank" rel="noopener noreferrer">Indium</a></td><td>comp500</td><td>3</td><td>9.68%</td></tr><tr><td>6. <a href="https://modrinth.com/mod/sodium-extra" target="_blank" rel="noopener noreferrer">Sodium Extra</a></td><td>FlashyReese</td><td>3</td><td>9.68%</td></tr><tr><td>7. <a href="https://modrinth.com/mod/reeses-sodium-options" target="_blank" rel="noopener noreferrer">Reese's Sodium Options</a></td><td>FlashyReese</td><td>3</td><td>9.68%</td></tr><tr><td>8. <a href="https://modrinth.com/mod/debugify" target="_blank" rel="noopener noreferrer">Debugify</a></td><td>isxander</td><td>3</td><td>9.68%</td></tr><tr><td>9. <a href="https://modrinth.com/mod/continuity" target="_blank" rel="noopener noreferrer">Continuity</a></td><td>peppercode1</td><td>2</td><td>6.45%</td></tr><tr><td>10. <a href="https://modrinth.com/modpack/fabulously-optimized" target="_blank" rel="noopener noreferrer">Fabulously Optimized</a></td><td>robotkoer</td><td>2</td><td>6.45%</td></tr></tbody></table><p>Overall, Modrunner keeps tabs on <strong>357</strong> unique projects across both CurseForge and Modrinth. That's a lot of projects! </p><p>Despite the top ten tracked projects all being from Modrinth, Modrunner keeps track of more CurseForge projects (<strong>194</strong>)
+than it does Modrinth projects (<strong>163</strong>).</p><p>Of all the <strong>31</strong> servers that Modrunner serves, just <strong>3</strong> of them use the "Compact" notification style, with the rest
+of them sticking with using the default Normal style. Additionally, <strong>2</strong> servers have custom changelog lengths, with
+rest keeping with the default maximum.</p><p>In terms of tracked projects, one server has <strong>170</strong> total tracked projects in it, accounting for <strong>47.62%</strong> of the total tracked projects
+that Modrunner keeps track of. Most other servers track about <strong>7</strong> projects each on average, and the median amount of
+tracked projects is just <strong>3</strong>.</p><p>And that's the wrap on the 2022 Modrunner recap! This isn't the end, of course, for Modrunner and I have many ideas still
+in store for the bot in the year(s) to come, including some major things like <strong>receiving project updates via direct messages</strong>,
+<strong>project discoverability features</strong> (maybe a "mod of the week" kinda thing?) and <strong>localization implementation</strong>, so
+that everyone can enjoy and use Modrunner in their language of choice. Look out for these features in the near future!</p><p>Thanks again and let's have a great 2023!</p><ul><li>Shane, aka beansquared</li></ul>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[The Minor Update Before Christmas]]></title>
-            <link>https://modrunner.net/blog/placeholder-post</link>
-            <guid>/placeholder-post</guid>
+            <link>https://modrunner.net/blog/2022/12/21/minor-update-before-christmas</link>
+            <guid>/2022/12/21/minor-update-before-christmas</guid>
             <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[An early holiday update bringing a few new nifty features and a couple of bugfixes]]></description>
             <content:encoded><![CDATA[<p>Hey Modrunnerians (?)</p><p>Got a small little update for y'all just before the holidays hit (and before a big snowstorm where I live!). Wanted to
@@ -20,9 +55,9 @@ push some new minor features before taking a short break from working on Modrunn
 what you think! </p><p>Now, the changes:</p><ul><li><strong>Add roles to be pinged for updates</strong> - you can now add roles to be pinged by Modrunner when a project receives an
 update notification. These are project-channel specific, meaning you can pick separate roles for every single project you
 have tracked, if you'd like. You can even ping multiple roles at once! Head over to the docs on the
-<a href="/commands/track">track command</a> to get started adding ping roles to your tracked projects.</li><li><strong>Support for forum channels</strong> - you can now track projects in forum channels! Every time a project receives an update
+track command to get started adding ping roles to your tracked projects.</li><li><strong>Support for forum channels</strong> - you can now track projects in forum channels! Every time a project receives an update
 in a forum channel, the bot will create a new post for that notification, making these ideal for setups where you wish to
-encourage discussion about newly released project updates.</li><li><strong>Added some stability checks and fixed some bugs</strong> - check the release notes on the <a href="/releases">releases tab</a> to view
+encourage discussion about newly released project updates.</li><li><strong>Added some stability checks and fixed some bugs</strong> - check the release notes on the releases tab to view
 the specifics, if you're so inclined.</li></ul><p>Happy Holidays from the Modrunner team!</p>]]></content:encoded>
         </item>
     </channel>
