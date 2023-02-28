@@ -114,7 +114,7 @@ const footerLinks = [
 		items: [
 			{
 				label: 'Email',
-				href: 'mailto:beansquared@cybermechanics.org',
+				href: 'mailto:contact@modrunner.net',
 				target: '_self',
 			},
 			{
