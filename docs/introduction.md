@@ -39,15 +39,15 @@ insights about each, in an effort to help make your choice easier.
 
 If you know of any other bots that should be on this list, come let us know in our [Discord](https://discord.gg/fm88jhzEbt)!
 
-### Claptrap
+### Claptrack
 
-[Claptrap](https://claptrapbot.me/) by HypherionSA is likely the closest comparison in terms of functionality. Like Modrunner, it features CurseForge and Modrinth
+[Claptrack](https://claptrack.com/) by HypherionSA is likely the closest comparison in terms of functionality. Like Modrunner, it features CurseForge and Modrinth
 support, but also includes support for [ATLauncher](https://atlauncher.com/) projects, [Minecraft](https://www.minecraft.net/) releases,
 [Forge](https://files.minecraftforge.net) releases, [Fabric](https://fabricmc.net/) releases, [Quilt](https://quiltmc.org/) releases, [GitHub](https://github.com/)
-releases, and [Feed the Beast](https://www.feed-the-beast.com/) projects. Overall, Claptrap is much more focused on supporting a purely Minecraft-focused community
+releases, and [Feed the Beast](https://www.feed-the-beast.com/) projects. Overall, Claptrack is much more focused on supporting a purely Minecraft-focused community
 than Modrunner and is a fine alternative.
 
-Claptrap also features a web dashboard to help server administrators manage their tracked projects, as well as Minecraft crash report parsing.
+Claptrack also features a web dashboard to help server administrators manage their tracked projects, as well as Minecraft crash report parsing, a mobile app and a public REST API.
 
 ### CurseForge-Bot
 
